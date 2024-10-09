@@ -1,3 +1,7 @@
+Personal Website for Courtney Graham.
+
+
+
 -----------------------
 # README
 -----------------------
